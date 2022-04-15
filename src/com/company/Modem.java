@@ -1,12 +1,27 @@
 package com.company;
 
-public class Modem {
-    DataChannel dc ;
-    Connection con;
+public class Modem  implements  DataChannel,Connection{
 
-    Modem (DataChannel dc , Connection con)
-    {
-        this.dc = dc;
-        this.con = con;
+
+
+
+    @Override
+    public void dial() {
+
+    }
+
+    @Override
+    public void Hangup() {
+
+    }
+
+    @Override
+    public void send() {
+
+    }
+
+    @Override
+    public void recv() {
+
     }
 }

@@ -1,14 +1,6 @@
 package com.company;
 
 public interface Connection {
-    private void dial ()
-    {
-
-    }
-
-    private  void hangup ()
-    {
-
-    }
-
+    public  void dial ();
+    public  void Hangup();
 }

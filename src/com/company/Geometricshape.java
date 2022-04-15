@@ -4,9 +4,10 @@ import java.awt.*;
 
 public class Geometricshape extends Container {
  private  Shape shape;
- Geometricshape (Shape shape1)
+
+ Geometricshape (Shape shape)
  {
-     this.shape = shape1;
+     this.shape = shape;
 
  }
 public int getXLowerRightCorner ()
@@ -18,6 +19,9 @@ public int getXLowerRightCorner ()
         return shape.getHeight();
     }
 
+    /*
+    LCOM --> 1 - (3+ 0)/3 = 0
+     */
 
 
 }
