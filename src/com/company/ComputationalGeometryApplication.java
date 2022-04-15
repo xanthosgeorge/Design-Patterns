@@ -2,11 +2,11 @@ package com.company;
 
 public class ComputationalGeometryApplication
 {
-    Geometricshape cga ;
+    GeometricShape cga ;
         ComputationalGeometryApplication ()
         {
             Shape shape = new Shape();
-            this.cga = new Geometricshape(shape);
+            this.cga = new GeometricShape(shape);
 
         }
 

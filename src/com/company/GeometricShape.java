@@ -2,10 +2,10 @@ package com.company;
 
 import java.awt.*;
 
-public class Geometricshape extends Container {
+public class GeometricShape extends Container {
  private  Shape shape;
 
- Geometricshape (Shape shape)
+ GeometricShape (Shape shape)
  {
      this.shape = shape;
 

@@ -17,7 +17,10 @@ public class Main {
         //First Application
 
 
-
+        //Second Application
+        Modem modem = new Modem("2106469281");
+        modem.dial();
+        modem.Hangup();
 
 
 
