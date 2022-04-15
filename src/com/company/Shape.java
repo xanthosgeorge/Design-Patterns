@@ -26,7 +26,7 @@ public class Shape extends JComponent {
     private Rectangle rect;
 
 	/*
-	LCM --> 1- (Sum(1 + 1 +2 +2 +1)/ 4 * 5 ) = 1 - 13/20 = 0.35
+	LCM --> 1- (Sum(2  + 4 )/ 3 * 5 ) = 1 - 6/15 = 9/15 = 0,6
 	 */
 
 

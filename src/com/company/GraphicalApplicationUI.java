@@ -21,4 +21,7 @@ public class GraphicalApplicationUI {
         shape.draw();
         f.setVisible(true);
     }
+
+
+    //LCOM --> 1-  ( 2 / 2 *1) = 1 - 1 = 0
 }
