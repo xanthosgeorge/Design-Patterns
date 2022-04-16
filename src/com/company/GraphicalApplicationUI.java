@@ -23,5 +23,5 @@ public class GraphicalApplicationUI {
     }
 
 
-    //LCOM --> 1-  ( 2 / 2 *1) = 1 - 1 = 0
+    //LCOM --> 1-  ( 1 + 1  / 2 *1) = 1 - 1 = 0
 }
